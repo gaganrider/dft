@@ -86,7 +86,7 @@ gsap.to('.homeimg',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.title',
-        scrub:true,
+        scrub:0.5,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -106,7 +106,7 @@ gsap.to('.page2r',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page2l',
-        scrub:true,
+        scrub:2,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -121,7 +121,7 @@ gsap.to('.page2r',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page2img4',
-        scrub:true,
+        scrub:2,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -154,7 +154,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.paget',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -169,7 +169,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.paget',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -185,7 +185,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.paget',
-        // scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -201,7 +201,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page4mimg',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -216,7 +216,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page4mimg',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -231,7 +231,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page4mimg',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
@@ -246,7 +246,7 @@ gsap.to('.page3video',{
     scrollTrigger:{
         scroller:'#main',
         trigger:'.page4mimg',
-        scrub:true,
+        scrub:0.25,
         // pin:'.page3',
         pinSpacing:false,
         // markers:true,
